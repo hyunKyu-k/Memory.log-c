@@ -3,6 +3,7 @@
 # Memory_log-client
 - 토글을 클릭하여 확인 해주세요
 </br>
+</br>
 <details>
   <summary>Splash_Screen</summary>
   <img src="https://user-images.githubusercontent.com/46562138/89759663-9fd48780-db25-11ea-9f7f-8977f8988669.gif" />
