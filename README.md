@@ -1,4 +1,5 @@
 ![](https://img.shields.io/badge/Memory.log-Mobile-black?style=for-the-badge)
+![](https://img.shields.io/badge/project-Memory.log-blue)
 
 # 📸 Memory_log
 <img src=https://user-images.githubusercontent.com/48914716/89749904-b0283a80-db04-11ea-9a9f-827a9cecea8c.png width=200 height=200 />
