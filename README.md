@@ -37,7 +37,6 @@
 
 ![](https://img.shields.io/badge/BACK-Firebase-FFCA28?style=for-the-badge&logo=Firebase)
 
-![](https://img.shields.io/badge/BACK-JWT-000000?style=for-the-badge&logo=JSON-web-tokens)
 
 <img width="1781" alt="TechStack" src="https://user-images.githubusercontent.com/48914716/89753542-b1149880-db13-11ea-9f00-d129920afd26.png">
 - 토글을 클릭하여 확인 해주세요
