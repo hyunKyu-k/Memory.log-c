@@ -5,7 +5,21 @@
 </a>
 
 # 📸 Memory_log
-<img src=https://user-images.githubusercontent.com/48914716/89749904-b0283a80-db04-11ea-9a9f-827a9cecea8c.png width=200 height=200 />
+<img src=https://user-images.githubusercontent.com/48914716/89749904-b0283a80-db04-11ea-9a9f-827a9cecea8c.png width=300 height=300 />
+
+여행 도중 찍었던 사진을 나중에 다시 보면서,
+
+'이때는 어떤 생각을 하며 이 사진을 찍었을까?’ 라는 생각이 들었던 적이 있나요?
+
+당신의 추억이 날라가버리지 않을 수 있는 곳, ***Memory.log*** 를 찾아주세요~
+
+여행 중 사진을 찍고 그와 동시에 당시에 느꼈던 감정을 짤막하게 기록하면, 그것이 ‘추억저장소’에 담겨 시간이 지나도 그때의 감정을 생생하게 기억할 수 있습니다!
+
+**"여행을 하며 순간의 추억을 기록하는 당신의 여행 파트너”** 
+
+***Memory.log*** 입니다 :)
+
+# Project Tech Stack
 - 토글을 클릭하여 확인 해주세요
 </br>
 <details>
