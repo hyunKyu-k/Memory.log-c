@@ -19,7 +19,7 @@
 
 ***Memory.log*** 입니다 :)
 
-# Project Tech Stack
+# 🕵🏼 어떤 기술이 사용되었나요?
 - 토글을 클릭하여 확인 해주세요
 </br>
 <details>
