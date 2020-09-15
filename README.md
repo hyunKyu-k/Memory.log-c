@@ -1,5 +1,5 @@
-![](https://img.shields.io/badge/project-Memory.log-blue)
-![](https://img.shields.io/badge/Memory.log-Mobile-black)
+![](https://img.shields.io/badge/project-Memory.log-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Memory.log-Mobile-black?style=for-the-badge)
 <a href="https://gitmoji.carloscuesta.me">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
