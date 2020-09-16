@@ -54,9 +54,28 @@
 ### Server-Side Photo upload flow chart[DYNAMIC]
 ![back_camera](https://user-images.githubusercontent.com/58412533/89811987-6843fa80-db7a-11ea-9233-62b9a1169bfd.gif)
 
-
-
 # 🗣 우리를 소개합니다.
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/codeFabian">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/319fb55e-29f8-4ab4-9f6c-39d94661ccfc/KakaoTalk_Photo_2020-02-11-17-07-19.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200916T042634Z&X-Amz-Expires=86400&X-Amz-Signature=0fe93579aaebefb191ef71b16e242cb1b3b4eb372b1913785afd33961b3f559b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22KakaoTalk_Photo_2020-02-11-17-07-19.jpeg%22" width="200px" alt="He is 막내" style="max-width:100%;">
+          <br>
+          <sub>
+            <b>HyunKyu Kim</b>
+          </sub>
+        </a>
+        <br>
+      </td>
+      <td>
+        <strong>🚩 FRONT END</strong>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 ![](https://img.shields.io/github/followers/codeFabian?style=social) | **Position** |
