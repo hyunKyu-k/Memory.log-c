@@ -66,7 +66,7 @@
 [경두현](https://github.com/Kyung-Douhyun) | [🏁 **FULL STACK** ](https://github.com/codestates/Memory_log-client/wiki#-%ED%8C%80%EC%9B%90-%EC%86%8C%EA%B0%9C-) | 
 [변민우](https://github.com/bombamong) | [🚩 **FRONT END** ](https://github.com/codestates/Memory_log-client/wiki#-%ED%8C%80%EC%9B%90-%EC%86%8C%EA%B0%9C-) |
 
-
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cbbbc9ba-a3f2-4e14-a9a1-745b397d17bc/IMG_3703.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cbbbc9ba-a3f2-4e14-a9a1-745b397d17bc/IMG_3703.jpg)
 
 # For project details
 
