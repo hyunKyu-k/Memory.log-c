@@ -39,6 +39,18 @@
 
 
 <img width="1781" alt="TechStack" src="https://user-images.githubusercontent.com/48914716/89753542-b1149880-db13-11ea-9f00-d129920afd26.png">
+
+
+# 🗣 우리를 소개합니다.
+
+[김소현](https://github.com/sokim1616) | [🚩 What Did I Do ](https://github.com/codestates/Memory_log-client/wiki#-%ED%8C%80%EC%9B%90-%EC%86%8C%EA%B0%9C-) | 
+---- | ---- |
+[김현규](https://github.com/codeFabian) | [🚩 What Did I Do ](https://github.com/codestates/Memory_log-client/wiki#-%ED%8C%80%EC%9B%90-%EC%86%8C%EA%B0%9C-) | 
+[경두현](https://github.com/Kyung-Douhyun) | [🚩 What Did I Do ](https://github.com/codestates/Memory_log-client/wiki#-%ED%8C%80%EC%9B%90-%EC%86%8C%EA%B0%9C-) | 
+[변민우](https://github.com/bombamong) | [🚩 What Did I Do ](https://github.com/codestates/Memory_log-client/wiki#-%ED%8C%80%EC%9B%90-%EC%86%8C%EA%B0%9C-) |
+
+
+
 - 토글을 클릭하여 확인 해주세요
 </br>
 <details>
