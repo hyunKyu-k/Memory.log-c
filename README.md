@@ -61,29 +61,66 @@
     <tr>
       <td align="center">
         <a href="https://github.com/codeFabian">
-          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/319fb55e-29f8-4ab4-9f6c-39d94661ccfc/KakaoTalk_Photo_2020-02-11-17-07-19.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200916T042634Z&X-Amz-Expires=86400&X-Amz-Signature=0fe93579aaebefb191ef71b16e242cb1b3b4eb372b1913785afd33961b3f559b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22KakaoTalk_Photo_2020-02-11-17-07-19.jpeg%22" width="200px" alt="He is 막내" style="max-width:100%;">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/319fb55e-29f8-4ab4-9f6c-39d94661ccfc/KakaoTalk_Photo_2020-02-11-17-07-19.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200916T042634Z&X-Amz-Expires=86400&X-Amz-Signature=0fe93579aaebefb191ef71b16e242cb1b3b4eb372b1913785afd33961b3f559b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22KakaoTalk_Photo_2020-02-11-17-07-19.jpeg%22" width="150px" alt="He is 막내" style="max-width:100%;">
           <br>
           <sub>
-            <b>HyunKyu Kim</b>
+            <b>김현규</b>
           </sub>
         </a>
         <br>
       </td>
       <td>
-        <strong>🚩 FRONT END</strong>
+        <strong>🚩 Frontend</strong>
       </td>
     </tr>
+     <tr>
+      <td align="center">
+        <a href="https://github.com/sokim1616">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cbbbc9ba-a3f2-4e14-a9a1-745b397d17bc/IMG_3703.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200916T050201Z&X-Amz-Expires=86400&X-Amz-Signature=41a7b95cce27661f03eacc5891ee53ac0fc7d5a00158c3dc0b90e033b0a45286&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22IMG_3703.jpg%22" width="150px" alt="She is 팀장" style="max-width:100%;">
+          <br>
+          <sub>
+            <b>김소현</b>
+          </sub>
+        </a>
+        <br>
+      </td>
+      <td>
+        <strong>🏁 Full Stack</strong>
+      </td>
+    </tr>
+      <td align="center">
+        <a href="https://github.com/bombamong">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dd045113-bf04-4c24-83cb-f0c2eecfa882/img.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200916T050557Z&X-Amz-Expires=86400&X-Amz-Signature=0a42143a356845955aef324a3d4d3fdd35a7546c7aacfb09e709d65b10819064&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22img.jpeg%22" width="150px" alt="He is 고수" style="max-width:100%;">
+          <br>
+          <sub>
+            <b>변민우</b>
+          </sub>
+        </a>
+        <br>
+      </td>
+      <td>
+        <strong>🚩 Frontend</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Kyung-Douhyun">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b96db224-012f-451d-80a2-d2ee2c301b86/F39EC313-94B6-455F-A2AB-DEF8BF7979AF.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200916T050425Z&X-Amz-Expires=86400&X-Amz-Signature=8ac1a7435a9551f5913a8f60446ccd823d52d309e64be254fce14b7cb27f646d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22F39EC313-94B6-455F-A2AB-DEF8BF7979AF.jpeg%22" width="150px" alt="He is 맏형" style="max-width:100%;">
+          <br>
+          <sub>
+            <b>경두현</b>
+          </sub>
+        </a>
+        <br>
+      </td>
+      <td>
+        <strong>🏁 Full Stack</strong>
+      </td>
+    </tr>
+    <tr>
   </tbody>
 </table>
 
-
-
-![](https://img.shields.io/github/followers/codeFabian?style=social) | **Position** |
----- | ---- | 
-[김소현](https://github.com/sokim1616) | [🏁 **FULL STACK**](https://github.com/codestates/Memory_log-client/wiki#-%ED%8C%80%EC%9B%90-%EC%86%8C%EA%B0%9C-) | 
-[김현규](https://github.com/codeFabian) | [🚩 **FRONT END** ](https://github.com/codestates/Memory_log-client/wiki#-%ED%8C%80%EC%9B%90-%EC%86%8C%EA%B0%9C-) | 
-[경두현](https://github.com/Kyung-Douhyun) | [🏁 **FULL STACK** ](https://github.com/codestates/Memory_log-client/wiki#-%ED%8C%80%EC%9B%90-%EC%86%8C%EA%B0%9C-) | 
-[변민우](https://github.com/bombamong) | [🚩 **FRONT END** ](https://github.com/codestates/Memory_log-client/wiki#-%ED%8C%80%EC%9B%90-%EC%86%8C%EA%B0%9C-) |
 
 
 # For project details
