@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=for-the-badge" alt="Gitmoji">
 </a>
 
-✅[위의 뱃지를 사용하고 싶으시다면 클릭하여 이동해주세요.](https://github.com/badges/shields)
+✅ [위의 뱃지를 사용하고 싶으시다면 클릭하여 이동해주세요.](https://github.com/badges/shields)
 
 # 📸 Memory_log
 <img src=https://user-images.githubusercontent.com/48914716/89749904-b0283a80-db04-11ea-9a9f-827a9cecea8c.png width=300 height=300 />
