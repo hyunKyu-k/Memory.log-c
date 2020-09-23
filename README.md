@@ -1,12 +1,16 @@
-
 ![](https://img.shields.io/badge/project-Memory.log-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Memory.log-Mobile-black?style=for-the-badge)
 <a href="https://gitmoji.carloscuesta.me">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=for-the-badge" alt="Gitmoji">
-</a>
+</a> 
+
+
+✅ [위의 뱃지를 활용하여 여러분의 저장소에 활용 해보세요](https://github.com/badges/shields)
 
 # 📸 Memory_log
 <img src=https://user-images.githubusercontent.com/48914716/89749904-b0283a80-db04-11ea-9a9f-827a9cecea8c.png width=300 height=300 />
+
+✅ [이미지를 통해 여러분의 서비스를 소개해주세요](https://worthpreading.tistory.com/83)
 
 여행 도중 찍었던 사진을 나중에 다시 보면서,
 
@@ -57,12 +61,15 @@
 
 # 🗣 우리를 소개합니다.
 
+✅ [테이블 형식을 통해 깔끔하게 정리해보세요!](https://www.markdownguide.org/cheat-sheet/)
+
+✅ [마크다운이 익숙치 않다면, html을 사용해보세요](https://www.w3schools.com/tags/tag_table.asp)
 <table>
   <tbody>
     <tr>
       <td align="center">
         <a href="https://github.com/codeFabian">
-          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/319fb55e-29f8-4ab4-9f6c-39d94661ccfc/KakaoTalk_Photo_2020-02-11-17-07-19.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200916T042634Z&X-Amz-Expires=86400&X-Amz-Signature=0fe93579aaebefb191ef71b16e242cb1b3b4eb372b1913785afd33961b3f559b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22KakaoTalk_Photo_2020-02-11-17-07-19.jpeg%22" width="150px" alt="He is 막내" style="max-width:100%;">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/319fb55e-29f8-4ab4-9f6c-39d94661ccfc/KakaoTalk_Photo_2020-02-11-17-07-19.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200923%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200923T103101Z&X-Amz-Expires=86400&X-Amz-Signature=ec7e022331376fc5150d175c5a7a2f8f707fce8c93f12a51dd209a8f20a02cf2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22KakaoTalk_Photo_2020-02-11-17-07-19.jpeg%22" width="150px" alt="He is 막내" style="max-width:100%;">
           <br>
           <sub>
             <b>김현규</b>
@@ -77,7 +84,7 @@
      <tr>
       <td align="center">
         <a href="https://github.com/sokim1616">
-          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cbbbc9ba-a3f2-4e14-a9a1-745b397d17bc/IMG_3703.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200916T050201Z&X-Amz-Expires=86400&X-Amz-Signature=41a7b95cce27661f03eacc5891ee53ac0fc7d5a00158c3dc0b90e033b0a45286&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22IMG_3703.jpg%22" width="150px" alt="She is 팀장" style="max-width:100%;">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cbbbc9ba-a3f2-4e14-a9a1-745b397d17bc/IMG_3703.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200923%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200923T102951Z&X-Amz-Expires=86400&X-Amz-Signature=15a44905d07b5f995fd11c8f2837a83371267850f7a132167fcd134c1018adec&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22IMG_3703.jpg%22" width="150px" alt="She is 팀장" style="max-width:100%;">
           <br>
           <sub>
             <b>김소현</b>
@@ -91,7 +98,7 @@
     </tr>
       <td align="center">
         <a href="https://github.com/bombamong">
-          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dd045113-bf04-4c24-83cb-f0c2eecfa882/img.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200916T050557Z&X-Amz-Expires=86400&X-Amz-Signature=0a42143a356845955aef324a3d4d3fdd35a7546c7aacfb09e709d65b10819064&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22img.jpeg%22" width="150px" alt="He is 고수" style="max-width:100%;">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dd045113-bf04-4c24-83cb-f0c2eecfa882/img.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200923%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200923T103127Z&X-Amz-Expires=86400&X-Amz-Signature=95de033c519525f8e2015f646cdc44d4ca5ca1c3d4763e62e210b74ed7812f39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22img.jpeg%22" width="150px" alt="He is 고수" style="max-width:100%;">
           <br>
           <sub>
             <b>변민우</b>
@@ -121,6 +128,7 @@
     <tr>
   </tbody>
 </table>
+
 
 
 # For project details
