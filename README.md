@@ -84,7 +84,7 @@
      <tr>
       <td align="center">
         <a href="https://github.com/sokim1616">
-          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cbbbc9ba-a3f2-4e14-a9a1-745b397d17bc/IMG_3703.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200923%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200923T102951Z&X-Amz-Expires=86400&X-Amz-Signature=15a44905d07b5f995fd11c8f2837a83371267850f7a132167fcd134c1018adec&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22IMG_3703.jpg%22" width="150px" alt="She is 팀장" style="max-width:100%;">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cbbbc9ba-a3f2-4e14-a9a1-745b397d17bc/IMG_3703.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201007%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201007T025031Z&X-Amz-Expires=86400&X-Amz-Signature=31c91db4d721315dc07ca76c265ad36cebb5c7f9622cb346f5edefb85ced879e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22IMG_3703.jpg%22" width="150px" alt="She is 팀장" style="max-width:100%;">
           <br>
           <sub>
             <b>김소현</b>
@@ -98,7 +98,7 @@
     </tr>
       <td align="center">
         <a href="https://github.com/bombamong">
-          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dd045113-bf04-4c24-83cb-f0c2eecfa882/img.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200923%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200923T103127Z&X-Amz-Expires=86400&X-Amz-Signature=95de033c519525f8e2015f646cdc44d4ca5ca1c3d4763e62e210b74ed7812f39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22img.jpeg%22" width="150px" alt="He is 고수" style="max-width:100%;">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dd045113-bf04-4c24-83cb-f0c2eecfa882/img.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201007%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201007T024948Z&X-Amz-Expires=86400&X-Amz-Signature=de65662aa4da2d678204bb0ea017e0cc41c00a2ac0691ae43f12d44779fbbd3b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22img.jpeg%22" width="150px" alt="He is 고수" style="max-width:100%;">
           <br>
           <sub>
             <b>변민우</b>
