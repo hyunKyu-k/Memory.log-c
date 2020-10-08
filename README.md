@@ -131,6 +131,6 @@
 
 
 
-# For project details
+# For project details.
 
 ### [checkout WIKI](https://github.com/codestates/Memory_log-client/wiki)
