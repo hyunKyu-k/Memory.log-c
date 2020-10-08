@@ -113,7 +113,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Kyung-Douhyun">
-          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b96db224-012f-451d-80a2-d2ee2c301b86/F39EC313-94B6-455F-A2AB-DEF8BF7979AF.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200916%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200916T050425Z&X-Amz-Expires=86400&X-Amz-Signature=8ac1a7435a9551f5913a8f60446ccd823d52d309e64be254fce14b7cb27f646d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22F39EC313-94B6-455F-A2AB-DEF8BF7979AF.jpeg%22" width="150px" alt="He is 맏형" style="max-width:100%;">
+          <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b96db224-012f-451d-80a2-d2ee2c301b86/F39EC313-94B6-455F-A2AB-DEF8BF7979AF.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201008%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201008T075137Z&X-Amz-Expires=86400&X-Amz-Signature=e1a6f2e1fc19ed6a672c5820a40772dfb01a9e355a2b295d019b166a7c72fdfc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22F39EC313-94B6-455F-A2AB-DEF8BF7979AF.jpeg%22" width="150px" alt="He is 맏형" style="max-width:100%;">
           <br>
           <sub>
             <b>경두현</b>
