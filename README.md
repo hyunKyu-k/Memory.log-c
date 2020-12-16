@@ -5,12 +5,10 @@
 </a> 
 
 
-✅ [위의 뱃지를 활용하여 여러분의 저장소에 활용 해보세요](https://github.com/badges/shields)
-
 # 📸 Memory_log
 <img src=https://user-images.githubusercontent.com/48914716/89749904-b0283a80-db04-11ea-9a9f-827a9cecea8c.png width=300 height=300 />
 
-✅ [이미지를 통해 여러분의 서비스를 소개해주세요](https://worthpreading.tistory.com/83)
+
 
 여행 도중 찍었던 사진을 나중에 다시 보면서,
 
@@ -61,9 +59,6 @@
 
 # 🗣 우리를 소개합니다.
 
-✅ [테이블 형식을 통해 깔끔하게 정리해보세요!](https://www.markdownguide.org/cheat-sheet/)
-
-✅ [마크다운이 익숙치 않다면, html을 사용해보세요](https://www.w3schools.com/tags/tag_table.asp)
 <table>
   <tbody>
     <tr>
