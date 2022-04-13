@@ -55,7 +55,7 @@
 ### Server-Side Photo upload flow chart[DYNAMIC]
 ![back_camera](https://user-images.githubusercontent.com/58412533/89811987-6843fa80-db7a-11ea-9233-62b9a1169bfd.gif)
 
-# 🗣 우리를 소개합니다.
+# 🗣 우리를 소개합니다
 
 <table>
   <tbody>
